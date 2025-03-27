@@ -33,7 +33,7 @@ nav > ul > li > a {
     display: block;
     color: white;
     text-align: center;
-    padding: 10px 16px;
+    padding: 14px 10px;
     text-decoration: none;
 }
 
