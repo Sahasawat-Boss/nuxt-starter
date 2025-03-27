@@ -3,9 +3,9 @@
         <nav>
             <ul>
                 <li><a class="active" href="/">Home</a></li>
-                <li><a href="/about">About</a></li>
                 <li><a href="/attraction">Attraction</a></li>
                 <li><a href="/attraction/info">(Attraction Info)</a></li>
+                <li><a href="/about">About</a></li>
             </ul>
         </nav>
         <slot /> <!-- Page Content-->
